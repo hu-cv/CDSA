@@ -1,11 +1,10 @@
 # CDSA
 Hi! You are welcome to visit here!
-This repository will be used to release the code of novel convolution-based discriminative sparse appearance (CDSA) model, a newly proposed method for sparse tracking by our research team. In the CDSA model, the representations of candidate image regions are constructed by utilizing convolutions with a discriminative sparse dictionary instead of traditional sparse linear combination. Compared with traditional sparse appearance models, the proposed appearance model is able to exploit hierarchical and discriminative features of tracking target, thereby effectively handling problems caused by external interference. The research paper of CDSA has been submitted to APPLIED INTELLIGENCE.
+This repository will be used to release the code of novel convolution-based discriminative sparse appearance (CDSA) model, a newly proposed method for sparse tracking by our research team. In the CDSA model, the representations of candidate image regions are constructed by utilizing convolutions with a discriminative sparse dictionary instead of traditional sparse linear combination. Compared with traditional sparse appearance models, the proposed appearance model is able to exploit hierarchical and discriminative features of tracking target, thereby effectively handling problems caused by external interference. The research paper of CDSA has been submitted to MULTIMEDIA TOOLS AND APPLICATIONS.
 
 # Experimental Datasets
 * **Online Tracking Benchmark (OTB)** [1][2]. (http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html). The OTB100 dataset contains 100 fully sequences annotated by 11 challenging factors, including background clutter (BC), deformation (DEF), illumination variation (IV), low resolution (LR), motion blur (MB),fast motion (FM), out-of-plane rotation (OPR), occlusion (OCC), in-plane rotation (IPR), out-of-view (OV) and scale variation (SV) issues. 
 
-* **VOT datasets**. VOT2016[3] and VOT2018[4] datasets are derived from the recent Visual Object Tracking (VOT) challenges(https://www.votchallenge.net/). Both VOT datasets are designed to assess the short-term performance of trackers and consist of 60 different videos. More detailed descriptions of the VOT challenge can be found in [3, 4].
 
 References:
 
@@ -16,13 +15,6 @@ https://doi.org/10.1109/CVPR.2013.312
 IEEE Trans. Pattern Anal. Mach. Intell. 37(9): 1834-1848
 https://doi.org/10.1109/TPAMI.2014.2388226
 
-[3] Matej Kristan, Ales Leonardis, Jiri Matas, et al (2016) The Visual Object
-Tracking VOT2016 Challenge Results. In: ECCV Workshop, pp 777-823
-https://doi.org/10.1007/978-3-319-48881-54
-
-[4] Matej Kristan, Ales Leonardis, Jiri Matas, et al (2018) The Sixth Visual
-Object Tracking VOT2018 Challenge Results. In: ECCV Workshop, pp 3-53
-https://doi.org/10.1007/978-3-030-11009-3-1
 
 # Comparison Methods
 * **CST** is a global appearance model which adopts the circular shifts of target to refine and reduce the number of samples.
