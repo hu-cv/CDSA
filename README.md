@@ -14,3 +14,7 @@ References:
 [1] Yi Wu, Jongwoo Lim, Ming-Hsuan Yang: Object Tracking Benchmark. IEEE Trans. Pattern Anal. Mach. Intell. 37(9): 1834-1848 (2015). https://doi.org/10.1109/TPAMI.2014.2388226
 
 [2] Matthias Mueller, Neil Smith, Bernard Ghanem: A Benchmark and Simulator for UAV Tracking. ECCV (1) 2016: 445-461. https://doi.org/10.1007/978-3-319-46448-0_27
+
+
+# Quick start
+Download the two datasets above (including all sequences) and the toolkit, place the entire CDSA folder and downloaded sequences in the specified directory (see the toolkit instructions for details), and run the toolkit.
