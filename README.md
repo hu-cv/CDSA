@@ -7,7 +7,7 @@ To address the limitations of existing sparse appearance models, we introduces a
 # Experimental Datasets
 * **Online Tracking Benchmark (OTB)** [1]. (http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html). The OTB100 dataset contains 100 fully sequences annotated by 11 challenging factors, including background clutter, deformation, illumination variation, low resolution, motion blur, fast motion, out-of-plane rotation, occlusion, in-plane rotation, out-of-view and scale variation issues.
 
-* **Unmanned Aerial Vehicle tracking benchmark (UAV123@10_fps)** [2]. (https://cemse.kaust.edu.sa/ivul/uav123). The UAV123@10_fps dataset is a tracking benchmark for lowaltitude unmanned aerial vehicle (UAV) target tracking, and each sequence is annotated by 12 attributes, including aspect ratio change, background clutter, camera motion, fast motion, full occlusion, illumination variation, low resolution, out-ofview, partial occlusion, similar object, scale variation, and viewpoint change.
+* **Unmanned Aerial Vehicle tracking benchmark (UAV123@10_fps)** [2]. (https://ivul.kaust.edu.sa/benchmark-and-simulator-uav-tracking-dataset). The UAV123@10_fps dataset is a tracking benchmark for lowaltitude unmanned aerial vehicle (UAV) target tracking, and each sequence is annotated by 12 attributes, including aspect ratio change, background clutter, camera motion, fast motion, full occlusion, illumination variation, low resolution, out-ofview, partial occlusion, similar object, scale variation, and viewpoint change.
  
 References:
 
