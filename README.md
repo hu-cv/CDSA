@@ -1,8 +1,8 @@
-# CDSA
+<img width="2493" height="786" alt="image" src="https://github.com/user-attachments/assets/8f6ab94b-3e35-4f3e-8814-9dada557682a" /><img width="2493" height="786" alt="image" src="https://github.com/user-attachments/assets/ad7c01e7-02b7-409c-a06b-e35a03433242" /># CDSA
 
 Hi! You are welcome to visit here! This repository is used to release the code of a novel sparse tracking method called the Convolutional Discriminative Sparse Appearance (CDSA) model proposed in our paper titled “Effective Sparse Tracking with Convolution-based Discriminative Sparse Appearance Model”, which has been submitted to the Journal of Visual Communication and Image Representation (JVCIR).
 
-To address the limitations of existing sparse appearance models, we introduces a novel Convolution-based Discriminative Sparse Appearance (CDSA) model that exploits the hierarchical layout information and discriminative information of useful local patches for effective sparse tracking. 
+To address the limitations of existing sparse appearance models, we introduces a novel Convolution-based Discriminative Sparse Appearance (CDSA) model that exploits the hierarchical layout information and discriminative information of useful local patches for effective sparse tracking. The experimental results demonstrate that the CDSA-based sparse tracking algorithm is more effective than existing sparse trackers in dealing with external interference.
 
 # Experimental Datasets
 * **Online Tracking Benchmark (OTB)** [1]. (https://web.archive.org/web/20230329192956/http://cvlab.hanyang.ac.kr/tracker_benchmark/). The OTB100 dataset contains 100 fully sequences annotated by 11 challenging factors, including background clutter, deformation, illumination variation, low resolution, motion blur, fast motion, out-of-plane rotation, occlusion, in-plane rotation, out-of-view and scale variation issues.
