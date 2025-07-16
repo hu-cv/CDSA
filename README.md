@@ -1,5 +1,3 @@
-<img width="2493" height="786" alt="image" src="https://github.com/user-attachments/assets/8f6ab94b-3e35-4f3e-8814-9dada557682a" /><img width="2493" height="786" alt="image" src="https://github.com/user-attachments/assets/ad7c01e7-02b7-409c-a06b-e35a03433242" /># CDSA
-
 Hi! You are welcome to visit here! This repository is used to release the code of a novel sparse tracking method called the Convolutional Discriminative Sparse Appearance (CDSA) model proposed in our paper titled “Effective Sparse Tracking with Convolution-based Discriminative Sparse Appearance Model”, which has been submitted to the Journal of Visual Communication and Image Representation (JVCIR).
 
 To address the limitations of existing sparse appearance models, we introduces a novel Convolution-based Discriminative Sparse Appearance (CDSA) model that exploits the hierarchical layout information and discriminative information of useful local patches for effective sparse tracking. The experimental results demonstrate that the CDSA-based sparse tracking algorithm is more effective than existing sparse trackers in dealing with external interference.
